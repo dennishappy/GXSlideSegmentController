@@ -1,10 +1,10 @@
 
-GXSlideSegmentController
+#GXSlideSegmentController
 仿网易新闻侧滑视图
 
 使用方法：
-// add viewControllers
-    NSMutableArray *vcs = [NSMutableArray array];
+
+NSMutableArray *vcs = [NSMutableArray array];
     for (int i = 0; i < 10; i++) {
         UIViewController *vc = [[UIViewController alloc] init];
         vc.title = [NSString stringWithFormat:@"%d", i];
