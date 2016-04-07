@@ -17,3 +17,6 @@
     slideSegmentController.indicator.backgroundColor = [UIColor redColor];
     slideSegmentController.indicator.layer.cornerRadius = slideSegmentController.indicator.frame.size.height/2;
     [self.navigationController pushViewController:slideSegmentController animated:YES];
+    
+#cocoapods
+    pod 'GXSlideSegmentControllrt'
