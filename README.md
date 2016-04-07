@@ -19,4 +19,4 @@
     [self.navigationController pushViewController:slideSegmentController animated:YES];
     
 #cocoapods
-    pod 'GXSlideSegmentControllrt'
+    pod 'GXSlideSegmentController'
